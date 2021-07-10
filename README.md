@@ -4,7 +4,8 @@ Drawing is desktop program for **Windows 10** where you can draw different shape
 
 ### Controls
 ```
-Ctrl+S --> Save file (file is saved on server as well, if it is running and connected to client)
+Ctrl+S --> Save a picture in your "Downloads" folder, you will have to write filename in the console
+(file is automatically saved on server as well, if it is running and connected to client)
 Esc --> Close the program
 ```
 If you press on any shape you will have to enter it's size in the console.
