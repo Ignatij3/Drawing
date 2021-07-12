@@ -10,7 +10,7 @@ Esc --> Close the program
 ```
 If you press on any shape you will have to enter it's size in the console.
 
-*This program is not made to be useful neither for anyone, nor for me. I wrote it just to have at least minor experience in writing projects using **golang***
+*This program is not made to be useful neither for anyone, nor for me. I wrote it just to have some experience in writing dekstop applications using **golang***
 
 ## Important
 To be able to launch that program you have to download [sdl-2](https://github.com/veandco/go-sdl2/).
